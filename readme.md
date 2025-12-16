@@ -42,6 +42,7 @@
 - [Canva](https://www.canva.com/) - Quick design tool for non-designers.
 - [Calendly](https://calendly.com/) - Scheduling meetings made easy.
 - [Grammarly](https://www.grammarly.com/) - Free and efficient tool to correct your grammar and spellings.
+- [InvoiceDeck](https://invoicedeck.app) - Free, fast invoice generator for freelancers. No sign-up required.
 - [Skype](https://www.skype.com/) - Easy communication with the team and clients.
 - [Slack](https://slack.com/) - Easy communication with the team and community.
 - [Toggl](https://toggl.com/) - Time Tracking and reporting for free.
